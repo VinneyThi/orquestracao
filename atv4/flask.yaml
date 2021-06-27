@@ -1,0 +1,12 @@
+apiVersion: v1
+
+kind: Pod
+metadata:
+  name: flask
+
+spec:
+  containers:
+      - name: container-flask
+        image: vinney55/ssysdevops2021:ssys
+        ports:
+          - containerPort: 30000
