@@ -15,6 +15,6 @@
 
 
 * Atividade 6: Orquestração Avançada de Containers
-  * Não realizado, pois paasou do tempo*
+  * Não realizada
 
 
